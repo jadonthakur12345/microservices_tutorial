@@ -1,0 +1,25 @@
+{
+  "type": "Compass Connections",
+  "version": {
+    "$numberInt": "1"
+  },
+  "connections": [
+    {
+      "id": "0b535938-cfa9-44f8-8cd7-bb46db6ca725",
+      "lastUsed": {
+        "$date": {
+          "$numberLong": "1704712841558"
+        }
+      },
+      "favorite": {
+        "name": "MicroServicesDB"
+      },
+      "connectionOptions": {
+        "connectionString": "mongodb://localhost:27017/",
+        "oidc": {
+          "serializedState": "eyJvaWRjUGx1Z2luU3RhdGVWZXJzaW9uIjowLCJzdGF0ZSI6W119"
+        }
+      }
+    }
+  ]
+}
